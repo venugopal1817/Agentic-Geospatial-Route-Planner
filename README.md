@@ -1,7 +1,5 @@
 # Building an Agentic Geospatial Route Planner: Phase 1 Foundation
 
-**LinkedIn / Medium blog style technical README**
-
 ---
 
 ## The Problem That Started It All
