@@ -196,14 +196,3 @@ Send a POST request to `/plan` with a JSON body:
 ```
 
 ---
-
-## Publishing Notes
-
-This README doubles as a Phase 1 technical blog post for Medium or LinkedIn because it includes:
-- Problem definition
-- implemented solution
-- technical reasoning
-- code snippets
-- results and next steps
-
-If you want, I can also create a separate `docs/feature-readme.md` that is exactly optimized for Medium formatting.
