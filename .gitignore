@@ -3,3 +3,9 @@ PROJECT_KICKSTART_ANALYSIS.md
 blueprint.txt
 standard_docs.md
 LINKEDIN_BLOG_PHASE1.md
+
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+
